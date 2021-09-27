@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho em <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Em biết mà 🥰. Em yêu Minh nhiều lắm luôn áaa 😘😘',
-    messDesc: 'Khi nào chia tayy thì em là người yêu tiếp theo của Minh hé!!.',
+    messDesc: 'Khi nào chia tayy thì em là người yêu tiếp theo của Minh hé!!!.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com/men.de.180'
 }my
